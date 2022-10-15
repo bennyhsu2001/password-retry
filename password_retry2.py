@@ -16,5 +16,5 @@ while K > 0:
 		break #逃出迴圈
 	else:
 		K = K - 1
-		print('密碼錯誤! 還有',K,'次機會')
+		print('巾巾好香! 還有',K,'次機會')
 		
